@@ -487,13 +487,13 @@ margin: 20px 0px 10px 0px;
 }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 480px) {
 .main {
-	width: 320px;
+	width: 480px;
 }
 
 .footer {
-	margin-top: 2200px;
+	margin-top: 1600px;
 	width: 1000px;
 }
 }
